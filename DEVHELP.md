@@ -26,8 +26,8 @@ git push -u origin new-branch-name
 4. Review changes and click "Create pull request"
 5. Add a title and detailed description
 
-![Create a Pull Request](./images/dev-help/pull-request-1.png)
-![Create a Pull Request](./images/dev-help/pull-request-2.png)
+![Create a Pull Request](./images/dev_help/pull-request-1.png)
+![Create a Pull Request](./images/dev_help/pull-request-2.png)
 
 ## 4. Request a Review
 
