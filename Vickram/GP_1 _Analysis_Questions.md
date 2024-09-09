@@ -23,3 +23,5 @@ UCR_text = UCR_page1.extract_text()
 print(UCR_text)
 
 I need to rquest from the df where is crime the highest by geo based on the count of crime code. 
+ 
+
