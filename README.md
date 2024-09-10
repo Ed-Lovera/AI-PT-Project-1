@@ -42,7 +42,7 @@ When we take this data and average out the monthly crimes during and outside of 
 If you ask us, this makes the crimes rates during the Covid-19 Stay-At-Home mandate unreliable as they do not reflect the normal crime rates.
 
 ### So, which areas of Los Angeles experienced the most violent crimes?
-Considering that Covid has had a big impact on crime rates, going forward we will ommit any records that appear during the Covid-19 Stay-At-Home mandate. And although not very easy to tell based on the heatmap below, 77th Street and Central LA take the lead.
+Considering that Covid has had a big impact on crime rates, going forward we will omit any records that appear during the Covid-19 Stay-At-Home mandate. And although not very easy to tell based on the heat map below, 77th Street and Central LA take the lead.
 
 ![image](https://github.com/user-attachments/assets/cb483eeb-5c7e-4c7d-969c-d156780e63d3)
 
