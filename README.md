@@ -57,7 +57,7 @@ Newton
 
 ![image](https://github.com/user-attachments/assets/c428a02d-3c06-47f9-9350-e635d47e0194)
 
-### In the most violent areas, how do young people fare with violent crimes throughtout the year?
+### In the most violent areas, how do young people fare with violent crimes throughout the year?
 Not great :(
 
 When clamping the age range from 2 years up to 30 years old. We can see that the closer you get to 30 the most dangerous it is for you in the most violent areas. 25-30 being the age group in the most danger as we near the end of the calendar year.
