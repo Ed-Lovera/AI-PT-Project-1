@@ -15,10 +15,10 @@ Alternatively, you may continue reading below or take a look at our powerpoint [
 
 ## Summary
 We have determined that several factors do in fact come into play when it comes to predicting the likelihood of being a victim of a violent crime within Los Angeles.
-The two biggest factors being the presences of a Stay-At-Home mandate or similar curfew as well as the age of the victim.
+The two biggest factors being the presence of a Stay-At-Home mandate or similar curfew as well as the age of the victim.
 
 ### Is there any correlation to the number of violent crimes to non-violent crimes on a month to month basis?
-Not really. From what we can observe in the correlation table below, violent crimes tend to happen half as frequently as non-violent crimes. This alone is not sufficient in determining actualy correlaction.
+Not really. From what we can observe in the correlation table below, violent crimes tend to happen half as frequently as non-violent crimes. This alone is not sufficient in determining actual correlation.
 
 ![image](https://github.com/user-attachments/assets/1f3f8f4f-65f8-4b2f-ac05-8333b4275fc1)
 
