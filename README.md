@@ -26,7 +26,7 @@ Furthermore, it appears as though a bigger factor that may increase the likeliho
 
 ![image](https://github.com/user-attachments/assets/488aa93b-5ffa-44b7-aac8-ab5daba37cc8)
 
-To add, in the most recent data, we can that violent crimes have not increased at the same rate as non-violent crimes. This leads us to beleve that there are more important factor at play.
+To add, in the most recent data, we can see that violent crimes have not increased at the same rate as non-violent crimes. This leads us to beleive that there are more important factor at play.
 
 ![image](https://github.com/user-attachments/assets/9891b3fa-ae3a-4b1b-a069-fe62eb2b49f3)
 
