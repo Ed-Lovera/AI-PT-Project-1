@@ -66,7 +66,7 @@ When clamping the age range from 2 years up to 30 years old. We can see that the
 
 ![image](https://github.com/user-attachments/assets/81035006-87e5-4d90-aec8-37c8679cd1a2)
 
-From the top 5 most dangerous areas, it seems that Southwest LA is the only outlier in which being in your early 20s is hazardous all year long.
+From the top 5 most dangerous areas, it seems that Southwest LA is the only outlier in which being in your early 20s, it is hazardous all year long.
 
 In summary, being a person that is in Los Angeles, when there is no Stay-At-Home mandate, being near 77th Street (or Central, Southeast, Southwest or Newton LA) and between the ages of 25-30 you are in higher risk of being a victim of a violent crime.
 
