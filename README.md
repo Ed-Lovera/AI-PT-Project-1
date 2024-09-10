@@ -9,7 +9,7 @@ Factors that we will be considering in order to arrive to our conclusion are the
 
 To generate the plots required to answer the questions above, you must exexute the following [notebook](https://github.com/Ed-Lovera/AI-PT-Project-1/blob/main/la_crimes.ipynb).
 
-Alternatively, you may continue reading below or take a look at our powerpoint [presentation](https://github.com/Ed-Lovera/AI-PT-Project-1/blob/main/Project%201%20Presentation.pptx).
+Alternatively, you may continue reading below or take a look at our powerpoint [presentation](https://github.com/Ed-Lovera/AI-PT-Project-1/blob/main/presentation.pptx).
 
 ---
 
