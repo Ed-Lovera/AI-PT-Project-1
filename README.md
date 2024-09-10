@@ -31,7 +31,7 @@ To add, in the most recent data, we can see that violent crimes have not increas
 ![image](https://github.com/user-attachments/assets/9891b3fa-ae3a-4b1b-a069-fe62eb2b49f3)
 
 ### This has us thinking... what impact did the Covid-19 Stay-At-Home mandate have on violent crimes?
-The short answer is, a very significant impact! To set a baseline, we first take a look at all crimes throught out the years. At which point we can easily see that in 2020, the year in which the Covid-19 Stay-At-Home mandate was mostly in effect, crimes across the board were down.
+The short answer is, a very significant impact! To set a baseline, we first take a look at all crimes throughout the years. At which point we can easily see that in 2020, the year in which the Covid-19 Stay-At-Home mandate was mostly in effect, crimes across the board were down.
 
 ![image](https://github.com/user-attachments/assets/362aecb2-e6ab-4a1c-889d-328d7aaa1eac)
 
