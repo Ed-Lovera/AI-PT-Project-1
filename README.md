@@ -22,7 +22,7 @@ Not really. Although we can observe in the correlation table below, violent crim
 
 ![image](https://github.com/user-attachments/assets/1f3f8f4f-65f8-4b2f-ac05-8333b4275fc1)
 
-Furthermore, it appears as though a bigger factor that may increase the likelyhood of a violent crime is the outside temperature. As we can see in the bar graph below, there is visible uptick in violent crimes during the middle of the year. These are typically summer months in which temperatures rise.
+Furthermore, it appears as though a bigger factor that may increase the likelihood of a violent crime is the outside temperature. As we can see in the bar graph below, there is visible uptick in violent crimes during the middle of the year. These are typically summer months in which temperatures rise.
 
 ![image](https://github.com/user-attachments/assets/488aa93b-5ffa-44b7-aac8-ab5daba37cc8)
 
